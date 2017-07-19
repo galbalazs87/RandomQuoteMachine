@@ -1,0 +1,86 @@
+body {
+  background-color: #1DA1F2;
+  font-family: 'Indie Flower', cursive;
+  font-weight:300;
+}
+
+.quote-box {
+  width:500px;
+  background-color: #fff;
+  position: relative;
+  border-radius: 5px;
+  margin: 10% auto auto auto;
+  padding: 50px;
+  display:table;
+}
+
+.quote-text {
+  font-family: 'Indie Flower', cursive;
+  width:500px;
+  height:auto;
+  text-align:center;
+  clear:both;
+  font-weight:400;
+  font-size:1.6em;  
+}
+.quote-text i {
+  font-size:2.25em;
+  margin-right:0.5em;
+}
+
+.quote-author {
+  width:500px;
+  height:auto;
+  clear:both;
+  font-size:1em;
+  text-align:right;
+}
+
+.buttons {
+  width:500px;
+  margin:auto;
+  display:block;
+  
+}
+
+.button {
+  height:50px;
+  width:100px;
+  border-radius:5px;
+  border:none;
+  color: #fff;
+  background-color: #1DA1F9;
+  outline: none;
+  font-size:1em;
+  float: right;
+  font-weight:700;
+}
+
+#tweet-quote {
+  float: left;
+  width:50px;
+  text-align: center;
+  height: 50px;
+  font-size:1.4em;
+  color: white;
+}
+
+.buttons i {
+  font-size:1.6em;
+  padding-top:8px;
+}
+
+.footer {
+  text-align:center;
+  margin:30px;
+  font-size:1.4em;
+}
+
+.footer a {
+  color:white;
+  }
+
+.footer a:hover {
+  text-decoration:none;
+}
+
